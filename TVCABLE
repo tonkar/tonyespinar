@@ -1,0 +1,736 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal A&E (MÃ©xico)" tvg-name="MX: A&E" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="LATINO",MX: A&E
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9173
+#EXTINF:-1 tvg-id="MX - adn40" tvg-name="MX: ADN40 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/XHTVM_-_ADN40.png" group-title="LATINO",MX: ADN40 HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9155
+#EXTINF:-1 tvg-id="EPG123.83162.XMLTV.CO" tvg-name="MX: Adrenalina" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/deportes/adrenalina.png" group-title="LATINO",MX: Adrenalina
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9240
+#EXTINF:-1 tvg-id="MX - AMC" tvg-name="MX: AMC" tvg-logo="https://static.epg.best/mx/AMC.mx.png" group-title="LATINO",MX: AMC
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9221
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="MX: Animal Planet" tvg-logo="https://static.epg.best/mx/AnimalPlanet.mx.png" group-title="LATINO",MX: Animal Planet
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9182
+#EXTINF:-1 tvg-id="MX - AXN" tvg-name="MX: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="LATINO",MX: AXN
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9169
+#EXTINF:-1 tvg-id="EPG123.34863.XMLTV.CO" tvg-name="MX: AYM SPORTS" tvg-logo="https://static.epg.best/mx/AymSports.mx.png" group-title="LATINO",MX: AYM SPORTS
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9261
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="MX: AZ Cinema" tvg-logo="https://farm2.staticflickr.com/1704/25634859013_42315466b0_o.png" group-title="LATINO",MX: AZ Cinema
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9218
+#EXTINF:-1 tvg-id="Canal TV Azteca Clic" tvg-name="MX: Az Clic" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Azclic2017.png" group-title="LATINO",MX: Az Clic
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9153
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="MX: AZ Corazon" tvg-logo="https://static.epg.best/mx/AzCorazon.mx.png" group-title="LATINO",MX: AZ Corazon
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9185
+#EXTINF:-1 tvg-id="Canal TV Azteca Mundo" tvg-name="MX: AZ Mundo" tvg-logo="https://www.broadcastbeat.com/wp-content/uploads/2017/05/MUNDO-logo.png" group-title="LATINO",MX: AZ Mundo
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9196
+#EXTINF:-1 tvg-id="azteca.us" tvg-name="MX: Azteca 7" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="LATINO",MX: Azteca 7
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9164
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="MX: AZTECA UNO HD" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="LATINO",MX: AZTECA UNO HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9263
+#EXTINF:-1 tvg-id="babytv.us" tvg-name="MX: Baby TV" tvg-logo="https://static.epg.best/qa/BabyTV.qa.png" group-title="LATINO",MX: Baby TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9166
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="MX: Bandamax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png" group-title="LATINO",MX: Bandamax
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9238
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="MX: Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="LATINO",MX: Boomerang
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9204
+#EXTINF:-1 tvg-id="xh.gc.canal.5.mx" tvg-name="MX: CANAL 5" tvg-logo="https://static.epg.best/mx/5Nacional.mx.png" group-title="LATINO",MX: CANAL 5
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9262
+#EXTINF:-1 tvg-id="MX Canal Once" tvg-name="MX: CANAL ONCE" tvg-logo="https://static.epg.best/mx/CanalOnce.mx.png" group-title="LATINO",MX: CANAL ONCE
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9260
+#EXTINF:-1 tvg-id="AR: FOX COMEDY HD" tvg-name="MX: CINE LATINO" tvg-logo="https://static.epg.best/mx/CineLatino.mx.png" group-title="LATINO",MX: CINE LATINO
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9259
+#EXTINF:-1 tvg-id="GT: CINE MEXICANO" tvg-name="MX: CINE MEXICANO" tvg-logo="https://static.epg.best/mx/CineMexicano.mx.png" group-title="LATINO",MX: CINE MEXICANO
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9256
+#EXTINF:-1 tvg-id="MX - Cinecanal" tvg-name="MX: Cinecanal" tvg-logo="https://static.epg.best/mx/Cinecanal.mx.png" group-title="LATINO",MX: Cinecanal
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9219
+#EXTINF:-1 tvg-id="AR: CINECANAL" tvg-name="MX: CINECANAL FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Cinecanal.png" group-title="LATINO",MX: CINECANAL FHD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9255
+#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="MX: CINEMAX FHD" tvg-logo="https://static.epg.best/mx/Cinemax.mx.png" group-title="LATINO",MX: CINEMAX FHD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9250
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="MX: CNN en Espanol" tvg-logo="https://i.dlpng.com/static/png/408162_preview.png" group-title="LATINO",MX: CNN en Espanol
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9162
+#EXTINF:-1 tvg-id="cnninternational.us" tvg-name="MX: CNN International" tvg-logo="https://static.epg.best/in/CNNIntl.in.png" group-title="LATINO",MX: CNN International
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9161
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="MX: Comedy Central" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="LATINO",MX: Comedy Central
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9174
+#EXTINF:-1 tvg-id="Canal De PelÃ­cula" tvg-name="MX: De Pelicula" tvg-logo="https://adminweb.onlycable.es/img/Canale/small/De-pelicula/De-pelicula_.png" group-title="LATINO",MX: De Pelicula
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9207
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="MX: DE PELICULAS PLUS" tvg-logo="https://static.epg.best/mx/DePeliculaHD.mx.png" group-title="LATINO",MX: DE PELICULAS PLUS
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9266
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="MX: Discovery Channel" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="LATINO",MX: Discovery Channel
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9208
+#EXTINF:-1 tvg-id="MX - Discovery Home & Health" tvg-name="MX: Discovery H&H" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png" group-title="LATINO",MX: Discovery H&H
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9210
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="MX: Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="LATINO",MX: Discovery Kids
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9197
+#EXTINF:-1 tvg-id="MX - Discovery HD Theater" tvg-name="MX: Discovery Theater" tvg-logo="https://static.epg.best/mx/DiscoveryTheater.mx.png" group-title="LATINO",MX: Discovery Theater
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9206
+#EXTINF:-1 tvg-id="Canal Discovery Turbo (LatinoamÃ©rica)" tvg-name="MX: Discovery Turbo" tvg-logo="https://static.epg.best/in/DiscoveryTurbo.in.png" group-title="LATINO",MX: Discovery Turbo
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9183
+#EXTINF:-1 tvg-id="disney.co" tvg-name="MX: Disney Channel" tvg-logo="https://static.epg.best/tr/DisneyChannel.tr.png" group-title="LATINO",MX: Disney Channel
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9200
+#EXTINF:-1 tvg-id="EPG123.61311.XMLTV.CO" tvg-name="MX: Disney Jr." tvg-logo="https://static.epg.best/pt/DisneyJunior.pt.png" group-title="LATINO",MX: Disney Jr.
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9198
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="MX: Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="LATINO",MX: Disney XD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9203
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="MX: Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="LATINO",MX: Distrito Comedia
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9193
+#EXTINF:-1 tvg-id="MX - E!" tvg-name="MX: E! Entertainment" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="LATINO",MX: E! Entertainment
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9187
+#EXTINF:-1 tvg-id="MX - elgourmet" tvg-name="MX: El Gourmet" tvg-logo="https://static.epg.best/mx/Elgourmet.mx.png" group-title="LATINO",MX: El Gourmet
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9236
+#EXTINF:-1 tvg-id="MX - ESPN" tvg-name="MX: ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="LATINO",MX: ESPN
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9228
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="MX: Espn 3" tvg-logo="https://logodix.com/logo/1706894.png" group-title="LATINO",MX: Espn 3
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9227
+#EXTINF:-1 tvg-id="MX - ESPN 3" tvg-name="MX: Espn Extra" tvg-logo="https://static.epg.best/mx/ESPNplus.mx.png" group-title="LATINO",MX: Espn Extra
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9226
+#EXTINF:-1 tvg-id="canal.de.las.estrellas.xew.mx" tvg-name="MX: ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Estrella_TV_-_2020_logo.png" group-title="LATINO",MX: ESTRELLA TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9257
+#EXTINF:-1 tvg-id="AR: EUROPA EUROPA" tvg-name="MX: Europa Europa" tvg-logo="https://logostvargentina.files.wordpress.com/2008/12/8262d-12932908_1044821945541258_547738972792283883_n.png" group-title="LATINO",MX: Europa Europa
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9159
+#EXTINF:-1 tvg-id="MX - Film&Arts" tvg-name="MX: Film & Arts" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png" group-title="LATINO",MX: Film & Arts
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9154
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="MX: Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="LATINO",MX: Food Network
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9170
+#EXTINF:-1 tvg-id="canal.4.foro.tv.mx" tvg-name="MX: FORO TV" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="LATINO",MX: FORO TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9258
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="MX: Fox" tvg-logo="https://static.epg.best/mx/Fox.mx.png" group-title="LATINO",MX: Fox
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9186
+#EXTINF:-1 tvg-id="MX - FOX Action HD" tvg-name="MX: Fox Action" tvg-logo="https://static.epg.best/mx/FoxAction.mx.png" group-title="LATINO",MX: Fox Action
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9214
+#EXTINF:-1 tvg-id="EPG123.98730.XMLTV.CO" tvg-name="MX: Fox Classics" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6268.1471159262.png" group-title="LATINO",MX: Fox Classics
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9217
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="MX: FOX COMEDY" tvg-logo="https://static.epg.best/mx/FoxComedy.mx.png" group-title="LATINO",MX: FOX COMEDY
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9223
+#EXTINF:-1 tvg-id="AR: FOX FAMILY" tvg-name="MX: FOX FAMILY" tvg-logo="https://static.epg.best/mx/WorldofBusinessIdeas.mx.png" group-title="LATINO",MX: FOX FAMILY
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9213
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="MX: Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="LATINO",MX: Fox Life
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9192
+#EXTINF:-1 tvg-id="EPG123.74574.XMLTV.CO" tvg-name="MX: FOX PREMIUM ACTION HD" tvg-logo="https://static.epg.best/pa/FoxPremiumAction.pa.png" group-title="LATINO",MX: FOX PREMIUM ACTION HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9271
+#EXTINF:-1 tvg-id="MX - FOX Action HD" tvg-name="MX: Fox Premium Action SD" tvg-logo="https://static.epg.best/pa/FoxPremiumAction.pa.png" group-title="LATINO",MX: Fox Premium Action SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9249
+#EXTINF:-1 tvg-id="Canal Fox Premium CinÃ©ma" tvg-name="MX: Fox Premium Cinema" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="LATINO",MX: Fox Premium Cinema
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9216
+#EXTINF:-1 tvg-id="EPG123.90971.XMLTV.CO" tvg-name="MX: FOX PREMIUM COMEDY HD" tvg-logo="https://static.epg.best/pa/FoxPremiumComedy.pa.png" group-title="LATINO",MX: FOX PREMIUM COMEDY HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9267
+#EXTINF:-1 tvg-id="AR: FOX FAMILY" tvg-name="MX: FOX PREMIUM FAMILY HD" tvg-logo="https://static.epg.best/pa/FoxPremiumFamily.pa.png" group-title="LATINO",MX: FOX PREMIUM FAMILY HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9268
+#EXTINF:-1 tvg-id="AR: FOX MOVIES HD" tvg-name="MX: Fox Premium Movies" tvg-logo="https://www.logolynx.com/images/logolynx/de/de2d06494368e3f7eb09896668f0c3d7.png" group-title="LATINO",MX: Fox Premium Movies
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9215
+#EXTINF:-1 tvg-id="Canal Fox Premium Series (Este)" tvg-name="MX: FOX PREMIUM SERIES HD" tvg-logo="https://static.epg.best/pa/FoxSeries.pa.png" group-title="LATINO",MX: FOX PREMIUM SERIES HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9269
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="MX: Fox Sports 1 HD" tvg-logo="https://static.epg.best/nl/FoxSports1.nl.png" group-title="LATINO",MX: Fox Sports 1 HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9156
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="MX: Fox Sports 2 HD" tvg-logo="https://i.ya-webdesign.com/images/fox-sports-2-logo-png-3.png" group-title="LATINO",MX: Fox Sports 2 HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9158
+#EXTINF:-1 tvg-id="MX - FOX Sports 3" tvg-name="MX: Fox Sports 3" tvg-logo="https://static.epg.best/mx/FoxSports3.mx.png" group-title="LATINO",MX: Fox Sports 3
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9160
+#EXTINF:-1 tvg-id="" tvg-name="MX: Fuel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Fuel_TV.svg/1280px-Fuel_TV.svg.png" group-title="LATINO",MX: Fuel TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9241
+#EXTINF:-1 tvg-id="fx.us" tvg-name="MX: FX" tvg-logo="https://static.epg.best/mx/FX.mx.png" group-title="LATINO",MX: FX
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9168
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="MX: GALA TV" tvg-logo="https://static.epg.best/mx/GalaTV9Nacional.mx.png" group-title="LATINO",MX: GALA TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9177
+#EXTINF:-1 tvg-id="ElGarageTV.mx" tvg-name="MX: Garage TV" tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.logo_garageTV_HD.png.9288a09ab4d6cbef56c691cd4890aa24.png" group-title="LATINO",MX: Garage TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9190
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="MX: Glitz" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6e4c5c92881825.Y3JvcCwyNTAwLDE5NTUsMCwyMTA.png" group-title="LATINO",MX: Glitz
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9191
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="MX: Golden Edge" tvg-logo="https://static.epg.best/pa/GoldenEdgeLatinAmerica.pa.png" group-title="LATINO",MX: Golden Edge
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9224
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="MX: Golden Plus FHD" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="LATINO",MX: Golden Plus FHD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9220
+#EXTINF:-1 tvg-id="EPG123.68317.XMLTV.CO" tvg-name="MX: Golden Premier 2" tvg-logo="https://static.epg.best/mx/GoldenPlus.mx.png" group-title="LATINO",MX: Golden Premier 2
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9270
+#EXTINF:-1 tvg-id="EPG123.80596.XMLTV.CO" tvg-name="MX: Golden Premier HD" tvg-logo="https://static.epg.best/mx/GoldenPremier2.mx.png" group-title="LATINO",MX: Golden Premier HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9264
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="MX: HBO" tvg-logo="https://static.epg.best/mx/HBO.mx.png" group-title="LATINO",MX: HBO
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9245
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="MX: HBO 2" tvg-logo="https://static.epg.best/ro/HBO2.ro.png" group-title="LATINO",MX: HBO 2
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9246
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="MX: HBO FAMILY" tvg-logo="https://www.logolynx.com/images/logolynx/s_c3/c3433a5f5e4e14e7b7517b44f5a9ce7c.png" group-title="LATINO",MX: HBO FAMILY
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9243
+#EXTINF:-1 tvg-id="HBOMundiMexico.mx" tvg-name="MX: HBO MUNDI" tvg-logo="http://198.255.5.2/picons/hbo%20mundi.png" group-title="LATINO",MX: HBO MUNDI
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9265
+#EXTINF:-1 tvg-id="GT: HBO PLUS MÃXICO" tvg-name="MX: HBO Plus HD" tvg-logo="https://static.epg.best/pa/HBOPlusPanamericano.pa.png" group-title="LATINO",MX: HBO Plus HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9251
+#EXTINF:-1 tvg-id="HBOPopMexicoAndCaribbean.mx" tvg-name="MX: HBO POP" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbopopcolor.png.187d7f94027c73008845963b243409c6.png" group-title="LATINO",MX: HBO POP
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9244
+#EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.pa" tvg-name="MX: HBO Signature HD" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="LATINO",MX: HBO Signature HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9252
+#EXTINF:-1 tvg-id="HBOXtreme.mx" tvg-name="MX: HBO XTREME" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hboextremecolor.png.bad67a7db5312c77f975cf2cf9b889cb.png" group-title="LATINO",MX: HBO XTREME
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9248
+#EXTINF:-1 tvg-id="Canal History en EspaÃ±ol" tvg-name="MX: History" tvg-logo="https://www.pngitem.com/pimgs/m/203-2038482_history-channel-tv-logo-hd-png-download.png" group-title="LATINO",MX: History
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9209
+#EXTINF:-1 tvg-id="EPG123.62161.XMLTV.CO" tvg-name="MX: Hola TV" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="LATINO",MX: Hola TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9175
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="MX: Investigation Discovery" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="LATINO",MX: Investigation Discovery
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9181
+#EXTINF:-1 tvg-id="CO: LIFETIME" tvg-name="MX: Lifetime" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="LATINO",MX: Lifetime
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9212
+#EXTINF:-1 tvg-id="unimas60wxft.us" tvg-name="MX: Mas Chic" tvg-logo="https://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="LATINO",MX: Mas Chic
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9176
+#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="MX: Mexiquice" tvg-logo="https://themediaboxx.com/wp-content/uploads/2019/10/155c873f-0fb8-40bb-be1c-052c72d15836.png" group-title="LATINO",MX: Mexiquice
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9237
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MX: MTV" tvg-logo="https://static.epg.best/mx/MTV.mx.png" group-title="LATINO",MX: MTV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9233
+#EXTINF:-1 tvg-id="AR: MTV HITS" tvg-name="MX: MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="LATINO",MX: MTV Hits
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9234
+#EXTINF:-1 tvg-id="EPG123.66419.XMLTV.CO" tvg-name="MX: MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="LATINO",MX: MTV Live
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9230
+#EXTINF:-1 tvg-id="Canal Multimedios (Costa Rica)" tvg-name="MX: Multimedios" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="LATINO",MX: Multimedios
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9179
+#EXTINF:-1 tvg-id="Canal Multimedios Plus" tvg-name="MX: MULTIMEDIOS PLUS" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.mulitmediosplus2020.png.067ec6c032eddea982f91a1d0dec408c.png" group-title="LATINO",MX: MULTIMEDIOS PLUS
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9225
+#EXTINF:-1 tvg-id="Canal Multimedios Plus" tvg-name="MX: MULTIMEDIOS PLUS" tvg-logo="https://forounivers.com/uploads/monthly_2019_12/large.1402321767_MultimediosPlus2019.png.7fe5507580ecf14e19cb717e676b86c2.png" group-title="LATINO",MX: MULTIMEDIOS PLUS
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9254
+#EXTINF:-1 tvg-id="CO: MULTIPREMIER" tvg-name="MX: MULTIPREMIER HD" tvg-logo="https://i.imgur.com/rr74rgJ.png" group-title="LATINO",MX: MULTIPREMIER HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9247
+#EXTINF:-1 tvg-id="MX - National Geographic" tvg-name="MX: NatGeo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1280px-National_Geographic_Channel.svg.png" group-title="LATINO",MX: NatGeo
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9211
+#EXTINF:-1 tvg-id="EPG123.104760.XMLTV.CO" tvg-name="MX: NatGeo Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="LATINO",MX: NatGeo Kids
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9180
+#EXTINF:-1 tvg-id="Canal Nat Geo Wild" tvg-name="MX: NATGEO WILD" tvg-logo="https://static.epg.best/mu/NatGeoWild.mu.png" group-title="LATINO",MX: NATGEO WILD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9239
+#EXTINF:-1 tvg-id="EPG123.101731.XMLTV.CO" tvg-name="MX: Nick" tvg-logo="https://static.epg.best/mu/Nickelodeon.mu.png" group-title="LATINO",MX: Nick
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9202
+#EXTINF:-1 tvg-id="MX - Nick 2" tvg-name="MX: Nick 2" tvg-logo="https://static.epg.best/mx/Nick2.mx.png" group-title="LATINO",MX: Nick 2
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9172
+#EXTINF:-1 tvg-id="EPG123.60295.XMLTV.CO" tvg-name="MX: Nick Jr." tvg-logo="https://static.epg.best/mx/NickJr.mx.png" group-title="LATINO",MX: Nick Jr.
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9199
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="MX: Nicktoons" tvg-logo="https://static.epg.best/mx/NickToons.mx.png" group-title="LATINO",MX: Nicktoons
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9201
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="MX: Paramount Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" group-title="LATINO",MX: Paramount Channel HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9157
+#EXTINF:-1 tvg-id="sony.us" tvg-name="MX: Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINO",MX: Sony Channel
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9163
+#EXTINF:-1 tvg-id="MX - Space" tvg-name="MX: SPACE SD" tvg-logo="https://static.epg.best/mx/Space.mx.png" group-title="LATINO",MX: SPACE SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9242
+#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="MX: Studio Universal" tvg-logo="https://static.epg.best/mx/StudioUniversal.mx.png" group-title="LATINO",MX: Studio Universal
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9167
+#EXTINF:-1 tvg-id="AR: SUNDANCE CHANNEL" tvg-name="MX: Sundance TV" tvg-logo="https://static.epg.best/mx/SundanceTV.mx.png" group-title="LATINO",MX: Sundance TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9229
+#EXTINF:-1 tvg-id="MX - Syfy" tvg-name="MX: SyFy" tvg-logo="https://static.epg.best/mx/Syfy.mx.png" group-title="LATINO",MX: SyFy
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9188
+#EXTINF:-1 tvg-id="EL: TBS" tvg-name="MX: TBS" tvg-logo="https://static.epg.best/ar/TBS.ar.png" group-title="LATINO",MX: TBS
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9194
+#EXTINF:-1 tvg-id="EPG123.73070.XMLTV.CO" tvg-name="MX: Telehit Plus" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/TeleHit2018.png" group-title="LATINO",MX: Telehit Plus
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9231
+#EXTINF:-1 tvg-id="MX TLNovelas" tvg-name="MX: TL NOVELAS" tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png" group-title="LATINO",MX: TL NOVELAS
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9195
+#EXTINF:-1 tvg-id="Canal 1 (Colombia)" tvg-name="MX: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="LATINO",MX: TLC
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9184
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX: TNT FHD" tvg-logo="https://static.epg.best/mx/TNT.mx.png" group-title="LATINO",MX: TNT FHD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9222
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX: TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINO",MX: TNT Series
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9189
+#EXTINF:-1 tvg-id="EPG123.63109.XMLTV.CO" tvg-name="MX: Tooncast" tvg-logo="https://static.epg.best/br/Tooncast.br.png" group-title="LATINO",MX: Tooncast
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9205
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="MX: Tru TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" group-title="LATINO",MX: Tru TV
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9171
+#EXTINF:-1 tvg-id="Canal Unicable (MÃ©xico)" tvg-name="MX: Unicable" tvg-logo="https://static.epg.best/mx/Unicable.mx.png" group-title="LATINO",MX: Unicable
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9178
+#EXTINF:-1 tvg-id="vh1.mx" tvg-name="MX: VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/VH1_Denmark.svg/1200px-VH1_Denmark.svg.png" group-title="LATINO",MX: VH1
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9232
+#EXTINF:-1 tvg-id="EPG123.90325.XMLTV.CO" tvg-name="MX: VH1 Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1280px-LOGO_VH1_CLASSIC.svg.png" group-title="LATINO",MX: VH1 Classic
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9235
+#EXTINF:-1 tvg-id="MX - Warner Channel" tvg-name="MX: Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINO",MX: Warner
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9165
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="MX:FOX SPORTS 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="LATINO",MX:FOX SPORTS 1 SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/9253
+#EXTINF:-1 tvg-id="" tvg-name="24/7 1000 Maneras de Morir" tvg-logo="https://i.pinimg.com/originals/f7/c5/4a/f7c54a2a792f106c81dd281581580e9c.png" group-title="24/7 LATINO",24/7 1000 Maneras de Morir
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1361
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas (Animada)" tvg-logo="https://purepng.com/public/uploads/large/mario-moreno-cantinflas-png-rgp.png" group-title="24/7 LATINO",24/7 Cantinflas (Animada)
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1322
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas Parte 1 (18 Peliculas)" tvg-logo="https://hrexach.files.wordpress.com/2014/09/can10.png" group-title="24/7 LATINO",24/7 Cantinflas Parte 1 (18 Peliculas)
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1320
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas Parte 2 (19 Peliculas)" tvg-logo="https://hrexach.files.wordpress.com/2014/09/can10.png" group-title="24/7 LATINO",24/7 Cantinflas Parte 2 (19 Peliculas)
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1321
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Don Gato y su Pandilla" tvg-logo="https://i.pinimg.com/originals/4e/98/98/4e989817daae3ab7596884b215e75169.png" group-title="24/7 LATINO",24/7 Don Gato y su Pandilla
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1360
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado" tvg-logo="https://static.wikia.nocookie.net/vsbattles/images/5/57/El_Chapul%C3%ADn_Colorado.png" group-title="24/7 LATINO",24/7 El Chapulin Colorado
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1325
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="https://img.pngio.com/chavo-preocupado-png-501541-png-images-pngio-chavo-del-8-png-780_780.png" group-title="24/7 LATINO",24/7 El Chavo del 8
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1326
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8 Serie Animada" tvg-logo="https://static.wikia.nocookie.net/chespirito/images/4/4e/PngItem_100060.png" group-title="24/7 LATINO",24/7 El Chavo del 8 Serie Animada
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1327
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap Temp 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="24/7 LATINO",24/7 El Principe del Rap Temp 1
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1328
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap Temp 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="24/7 LATINO",24/7 El Principe del Rap Temp 2
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1329
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap Temp 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="24/7 LATINO",24/7 El Principe del Rap Temp 3
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1330
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap Temp 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="24/7 LATINO",24/7 El Principe del Rap Temp 4
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap Temp 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="24/7 LATINO",24/7 El Principe del Rap Temp 5
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1332
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe del Rap Temp 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="24/7 LATINO",24/7 El Principe del Rap Temp 6
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1333
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 1" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="24/7 LATINO",24/7 Hechizada Temp 1
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1334
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 2" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="24/7 LATINO",24/7 Hechizada Temp 2
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1335
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 3" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="24/7 LATINO",24/7 Hechizada Temp 3
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1336
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 4" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="24/7 LATINO",24/7 Hechizada Temp 4
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1337
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 5" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="24/7 LATINO",24/7 Hechizada Temp 5
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1338
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 6" tvg-logo="https://www.clipartmax.com/png/middle/166-1667013_bewitched-tv-show-image-with-logo-and-character-bewitched.png" group-title="24/7 LATINO",24/7 Hechizada Temp 6
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1339
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Peluche" tvg-logo="https://3.bp.blogspot.com/-I3_QRiZhqtk/VoLi-b2QuJI/AAAAAAAAACU/cc87UlgXHGQ/s1600/image.png" group-title="24/7 LATINO",24/7 La Familia Peluche
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1343
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Hora Pico" tvg-logo="https://static.wixstatic.com/media/6703e1_a646bdea26784bac9cde02a452da3007~mv2.png" group-title="24/7 LATINO",24/7 La Hora Pico
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1341
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Pantera Rosa" tvg-logo="https://www.kindpng.com/picc/m/40-405803_png-pantera-rosa-pink-panther-transparent-png.png" group-title="24/7 LATINO",24/7 La Pantera Rosa
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1349
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 3 Chiflados" tvg-logo="http://links.iptvlogin.com:80/images/c1dfb18fdca80cf476e30aa145ea12dc.png" group-title="24/7 LATINO",24/7 Los 3 Chiflados
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1323
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedras" tvg-logo="https://assets.stickpng.com/images/59d624853752880e93e16e94.png" group-title="24/7 LATINO",24/7 Los Picapiedras
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1350
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Pitufos" tvg-logo="https://w7.pngwing.com/pngs/898/310/png-transparent-papa-smurf-the-smurfs-logo-smurfs-cdr-text-cartoon.png" group-title="24/7 LATINO",24/7 Los Pitufos
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1351
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Bella Genio Temp 1" tvg-logo="https://images6.fanpop.com/image/photos/43400000/I-Dream-of-Jeannie-i-dream-of-jeannie-43488850-300-225.png" group-title="24/7 LATINO",24/7 Mi Bella Genio Temp 1
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1340
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr Bean" tvg-logo="https://www.clipartmax.com/png/middle/74-749810_the-animated-series-mr-bean-cartoon-png.png" group-title="24/7 LATINO",24/7 Mr Bean
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1318
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro Infante" tvg-logo="https://i.pinimg.com/originals/d3/b7/dd/d3b7ddd69729da0cb17c5ab83f783e35.png" group-title="24/7 LATINO",24/7 Pedro Infante
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1324
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Porcel Y Olmedo" tvg-logo="http://links.iptvlogin.com:80/images/fa13bcb2ac7ef825242b3d89397f7b98.jpg" group-title="24/7 LATINO",24/7 Porcel Y Olmedo
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1319
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Asgard" tvg-logo="https://www.pngitem.com/pimgs/m/442-4421980_saint-seiya-logo-png-transparent-png.png" group-title="24/7 LATINO",24/7 Saint Seiya Asgard
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1356
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Hades" tvg-logo="https://www.pngitem.com/pimgs/m/442-4421980_saint-seiya-logo-png-transparent-png.png" group-title="24/7 LATINO",24/7 Saint Seiya Hades
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1358
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Las 12 Casas" tvg-logo="https://www.pngitem.com/pimgs/m/442-4421980_saint-seiya-logo-png-transparent-png.png" group-title="24/7 LATINO",24/7 Saint Seiya Las 12 Casas
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1355
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Poseidon" tvg-logo="https://www.pngitem.com/pimgs/m/442-4421980_saint-seiya-logo-png-transparent-png.png" group-title="24/7 LATINO",24/7 Saint Seiya Poseidon
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1357
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Saint Seiya Torneo Galactico" tvg-logo="https://www.pngitem.com/pimgs/m/442-4421980_saint-seiya-logo-png-transparent-png.png" group-title="24/7 LATINO",24/7 Saint Seiya Torneo Galactico
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1354
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby Doo" tvg-logo="https://www.pinclipart.com/picdir/middle/54-542875_scoobydoo-logo-scooby-doo-png-clipart.png" group-title="24/7 LATINO",24/7 Scooby Doo
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1359
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones (Captain Tsubasa)" tvg-logo="https://4.bp.blogspot.com/-6Oa0t8_uPAE/XLAGVuIJkjI/AAAAAAAAGcA/Xbd5aGFDUgklc3ajYYP4WVDu1HaZ7Sy1gCLcBGAs/s1600/Imagen-programa-S%25C3%25BAper-Campeones.png" group-title="24/7 LATINO",24/7 Super Campeones (Captain Tsubasa)
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Y Jerry" tvg-logo="https://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG4.png" group-title="24/7 LATINO",24/7 Tom Y Jerry
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1352
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Una Familia de Diez" tvg-logo="https://sanmarcos.live/wp-content/uploads/2017/09/Fam10.png" group-title="24/7 LATINO",24/7 Una Familia de Diez
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1342
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 1" tvg-logo="https://ruizhealy.rmb.mx/wp-content/uploads/2017/02/vecinos.png" group-title="24/7 LATINO",24/7 Vecinos Temp 1
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1344
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 2" tvg-logo="https://ruizhealy.rmb.mx/wp-content/uploads/2017/02/vecinos.png" group-title="24/7 LATINO",24/7 Vecinos Temp 2
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1345
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 3" tvg-logo="https://ruizhealy.rmb.mx/wp-content/uploads/2017/02/vecinos.png" group-title="24/7 LATINO",24/7 Vecinos Temp 3
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 4" tvg-logo="https://ruizhealy.rmb.mx/wp-content/uploads/2017/02/vecinos.png" group-title="24/7 LATINO",24/7 Vecinos Temp 4
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1347
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 5" tvg-logo="https://ruizhealy.rmb.mx/wp-content/uploads/2017/02/vecinos.png" group-title="24/7 LATINO",24/7 Vecinos Temp 5
+http://watch.alienstreams.tv:8080/3934136260/5483122121/1348
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:  Exponiendo Infieles | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:  Exponiendo Infieles | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6449
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:  Futurama | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:  Futurama | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6547
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:  Lo Que Callamos Las Mujeres | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:  Lo Que Callamos Las Mujeres | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6460
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:  MacGiver (2016) Temp 1 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:  MacGiver (2016) Temp 1 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6481
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:  MacGiver (2016) Temp 2 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:  MacGiver (2016) Temp 2 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6482
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:  Mayday Catastrofes Aereas | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:  Mayday Catastrofes Aereas | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6461
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:  Una Familia de Diez | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:  Una Familia de Diez | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6515
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: 1000 Maneras de Morir | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: 1000 Maneras de Morir | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6647
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Aladino | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Aladino | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6584
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: ALF | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: ALF | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6517
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Alienigenas Ancestrales | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Alienigenas Ancestrales | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6462
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Angry Birds Toons | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Angry Birds Toons | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6583
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Animaniacs | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Animaniacs | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6534
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Ataque a los Titanes SUB | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Ataque a los Titanes SUB | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6525
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Autobus Magico | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Autobus Magico | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6535
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Automan | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Automan | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6533
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Beast Wars Machines | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Beast Wars Machines | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6595
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Beetlejuice | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Beetlejuice | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6630
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Ben Y Holly (Castellano) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Ben Y Holly (Castellano) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6536
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Birdman | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Birdman | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6585
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Brickleberry (+15) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Brickleberry (+15) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6531
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Bubble Guppies | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Bubble Guppies | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6537
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Candy Candy | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Candy Candy | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6611
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Cantinflas (Animada) | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Cantinflas (Animada) | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6488
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Cantinflas Parte 1 (18 Peliculas) | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Cantinflas Parte 1 (18 Peliculas) | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6486
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Cantinflas Parte 2 (19 Peliculas) | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Cantinflas Parte 2 (19 Peliculas) | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6487
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Capitan America y Los Planetarios | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Capitan America y Los Planetarios | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6577
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Capitan Cabernicola | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Capitan Cabernicola | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6599
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Caso Cerrado Inmigracion | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Caso Cerrado Inmigracion | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6445
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Caso Cerrado La Familia 1 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Caso Cerrado La Familia 1 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6446
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Caso Cerrado La Familia 2 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Caso Cerrado La Familia 2 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6447
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Caso Cerrado La Familia 3 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Caso Cerrado La Familia 3 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6448
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Castle Temp 1 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Castle Temp 1 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6467
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Castle Temp 2 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Castle Temp 2 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6468
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Castle Temp 3 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Castle Temp 3 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6469
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Castle Temp 4 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Castle Temp 4 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6470
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Castle Temp 5 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Castle Temp 5 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6471
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Castle Temp 6 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Castle Temp 6 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6472
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Castle Temp 7 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Castle Temp 7 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6473
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Contacto Extranormal | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Contacto Extranormal | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6649
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Coraje el Perro Cobarde | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Coraje el Perro Cobarde | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6538
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: CSI Miami Temp 1-5 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: CSI Miami Temp 1-5 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6474
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: CSI Miami Temp 6-10 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: CSI Miami Temp 6-10 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6475
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Digimon Adventure | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Digimon Adventure | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6539
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Don Gato y su Pandilla | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Don Gato y su Pandilla | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6604
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dora la Exploradora | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dora la Exploradora | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6540
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dora y sus Amigos en la Ciudad | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dora y sus Amigos en la Ciudad | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6541
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dragon Ball (Vers Extendida) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dragon Ball (Vers Extendida) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6569
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dragon Ball GT | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dragon Ball GT | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6574
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dragon Ball Z Cell | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dragon Ball Z Cell | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6572
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dragon Ball Z Freezer | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dragon Ball Z Freezer | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6571
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dragon Ball Z Los Saiyajin | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dragon Ball Z Los Saiyajin | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6570
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dragon Ball Z Majin Boo | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dragon Ball Z Majin Boo | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6573
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Dragones de Berck | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Dragones de Berck | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6527
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Agente Oso | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Agente Oso | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6542
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Auto Fantastico | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Auto Fantastico | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6480
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Bebe Jefazo Vuelta al Curro | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Bebe Jefazo Vuelta al Curro | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6543
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Chapulin Colorado | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Chapulin Colorado | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6491
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Chavo del 8 Serie Animada | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Chavo del 8 Serie Animada | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6493
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Chavo del 8 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Chavo del 8 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6492
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Gallo Claudio | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Gallo Claudio | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6624
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Laboratorio de Dexter | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Laboratorio de Dexter | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6544
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Mundo De Beakman Temp 1 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Mundo De Beakman Temp 1 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6463
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Mundo De Beakman Temp 2 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Mundo De Beakman Temp 2 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6464
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Mundo De Beakman Temp 3 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Mundo De Beakman Temp 3 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6465
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Mundo De Beakman Temp 4 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Mundo De Beakman Temp 4 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6466
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Narrador de Cuentos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Narrador de Cuentos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6646
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Oso Yogui | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Oso Yogui | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6609
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Pais de Donkey Kong | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Pais de Donkey Kong | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6618
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Principe del Rap Temp 1 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Principe del Rap Temp 1 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6494
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Principe del Rap Temp 2 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Principe del Rap Temp 2 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6495
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Principe del Rap Temp 3 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Principe del Rap Temp 3 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6496
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Principe del Rap Temp 4 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Principe del Rap Temp 4 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6497
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Principe del Rap Temp 5 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Principe del Rap Temp 5 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6498
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Principe del Rap Temp 6 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Principe del Rap Temp 6 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6499
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Reto de los Super Amigos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Reto de los Super Amigos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6615
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: El Super Libro | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: El Super Libro | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6620
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Equipo Umizoomi | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Equipo Umizoomi | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6545
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Fabulas de Esopo | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Fabulas de Esopo | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6546
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: FBI | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: FBI | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6477
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Fenomenoide | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Fenomenoide | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6616
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Friends Temp 1 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Friends Temp 1 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6508
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Friends Temp 2 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Friends Temp 2 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6509
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: FRIENDS | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: FRIENDS | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6457
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Full House Temp 1 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Full House Temp 1 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6523
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Full House Temp 2 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Full House Temp 2 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6524
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Futurama | UHD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Futurama | UHD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6548
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Garfield | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Garfield | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6549
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Gargolas Heroes Goticos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Gargolas Heroes Goticos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6586
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Gasparin y sus Amigos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Gasparin y sus Amigos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6605
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Generador Rex | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Generador Rex | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6634
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Gi Joe | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Gi Joe | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6596
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Gravity Falls | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Gravity Falls | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6530
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Halcones Galacticos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Halcones Galacticos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6625
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hannah Montana Temp 1 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hannah Montana Temp 1 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6511
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: He-Man y los Masters del Universo | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: He-Man y los Masters del Universo | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6576
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Heathcliff | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Heathcliff | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6627
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hechizada Temp 1 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hechizada Temp 1 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6500
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hechizada Temp 2 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hechizada Temp 2 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6501
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hechizada Temp 3 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hechizada Temp 3 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6502
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hechizada Temp 4 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hechizada Temp 4 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6503
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hechizada Temp 5 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hechizada Temp 5 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6504
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hechizada Temp 6 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hechizada Temp 6 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6505
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hercules Los Viajes Legendarios | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hercules Los Viajes Legendarios | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6643
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hey Arnold | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hey Arnold | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6566
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Historias de Ultratumba | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Historias de Ultratumba | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6650
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Hombres de Negro Serie Animada | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Hombres de Negro Serie Animada | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6567
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Inspector Gadget | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Inspector Gadget | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6608
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Jackie Chan (Animada) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Jackie Chan (Animada) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6628
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Jhonny Bravo | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Jhonny Bravo | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6600
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Casa de los Dibujos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Casa de los Dibujos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6623
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Casa de Mickey Mouse | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Casa de Mickey Mouse | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6550
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Casa de Mickey Mouse | UHD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Casa de Mickey Mouse | UHD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6551
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Doctora Juguete | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Doctora Juguete | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6552
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Familia MeÃ±ique | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Familia MeÃ±ique | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6612
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Familia Peluche | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Familia Peluche | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6516
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Hora Pico | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Hora Pico | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6514
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Hormiga y el Oso Hormiguero | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Hormiga y el Oso Hormiguero | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6617
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Liga del Dragon VHSRip | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Liga del Dragon VHSRip | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6638
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La NiÃ±era Temp 1 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La NiÃ±era Temp 1 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6507
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Pantera Rosa | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Pantera Rosa | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6553
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La PequeÃ±a Lulu | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La PequeÃ±a Lulu | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6613
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Que se Avecina | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Que se Avecina | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6512
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Tonta Bruja | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Tonta Bruja | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6629
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: La Vaca y el Pollito | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: La Vaca y el Pollito | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6601
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Las Aventuras de Tin Tin | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Las Aventuras de Tin Tin | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6606
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Las Chicas Superpoderosas | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Las Chicas Superpoderosas | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6598
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Las Guerreras Magicas | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Las Guerreras Magicas | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6581
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Las Pistas de Blue | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Las Pistas de Blue | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6554
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Las Tortugas Ninja | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Las Tortugas Ninja | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6582
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Laura Bozzo | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Laura Bozzo | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6458
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Liveman | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Liveman | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6644
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los 3 Chiflados | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los 3 Chiflados | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6489
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los 7 Pecados Capitales | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los 7 Pecados Capitales | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6621
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los AÃ±os Maravillosos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los AÃ±os Maravillosos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6602
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Castores Cascarrabias | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Castores Cascarrabias | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6589
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Gatos Samurai | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Gatos Samurai | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6635
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Muppet Babys | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Muppet Babys | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6610
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Osos Gummi | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Osos Gummi | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6637
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Padrinos Magicos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Padrinos Magicos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6640
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Picapiedras (PequeÃ±os) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Picapiedras (PequeÃ±os) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6556
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Picapiedras | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Picapiedras | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6555
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Pitufos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Pitufos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6568
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Simpsons Noche de Brujas | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Simpsons Noche de Brujas | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6557
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Simpsons Temp 1-5 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Simpsons Temp 1-5 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6558
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Simpsons | UHD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Simpsons | UHD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6559
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Supersonicos | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Supersonicos | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6607
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Los Vengadores (Unidos) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Los Vengadores (Unidos) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6528
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Malcolm el de en Medio | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Malcolm el de en Medio | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6510
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Megaman NT Warrior | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Megaman NT Warrior | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6639
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Mi Bella Genio Temp 1 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Mi Bella Genio Temp 1 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6506
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Miguelito (Chile) | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Miguelito (Chile) | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6459
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Mr Bean | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Mr Bean | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6484
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Mr Pickles | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Mr Pickles | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6532
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: NCIS Los Angeles | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: NCIS Los Angeles | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6476
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Oxlack Investigador Paranormal | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Oxlack Investigador Paranormal | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6648
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Padre de Familia Temp 1-5 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Padre de Familia Temp 1-5 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6562
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Paradise PD | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Paradise PD | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6526
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Paso A Paso | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Paso A Paso | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6513
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Paw Patrol | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Paw Patrol | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6563
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Pedro Infante | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Pedro Infante | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6490
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Peppa Pig | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Peppa Pig | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6564
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Pinguinos de Madagascar | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Pinguinos de Madagascar | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6619
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Pinky y Cerebro | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Pinky y Cerebro | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6626
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Porcel Y Olmedo | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Porcel Y Olmedo | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6485
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Rapido y Furioso (Espias a todo gas) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Rapido y Furioso (Espias a todo gas) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6529
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Rugrats Aventura en PaÃ±ales | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Rugrats Aventura en PaÃ±ales | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6597
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Sailor Moon | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Sailor Moon | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6580
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Saint Seiya Asgard | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Saint Seiya Asgard | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6592
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Saint Seiya Hades | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Saint Seiya Hades | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6594
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Saint Seiya Las 12 Casas | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Saint Seiya Las 12 Casas | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6591
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Saint Seiya Poseidon | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Saint Seiya Poseidon | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6593
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Saint Seiya Torneo Galactico | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Saint Seiya Torneo Galactico | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6590
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Sakura Card Captor | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Sakura Card Captor | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6636
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Samurai Jack | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Samurai Jack | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6633
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Scooby Doo | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Scooby Doo | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6603
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: She-Ra La Princesa del Poder | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: She-Ra La Princesa del Poder | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6575
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Sonic X | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Sonic X | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6631
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: South Park Temp 1-5 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: South Park Temp 1-5 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6560
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: South Park | UHD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: South Park | UHD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6561
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Spiderman | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Spiderman | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6587
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Street Sharks | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Street Sharks | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6632
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Super Campeones (Captain Tsubasa) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Super Campeones (Captain Tsubasa) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6588
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Timon & Pumbaa | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Timon & Pumbaa | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6622
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Tom Y Jerry Kids | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Tom Y Jerry Kids | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6579
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Tom Y Jerry | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Tom Y Jerry | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6578
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Transformers Mastersforce (1988) | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Transformers Mastersforce (1988) | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6565
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Un Show Mas | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Un Show Mas | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6614
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Vecinos Temp 1 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Vecinos Temp 1 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6518
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Vecinos Temp 2 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Vecinos Temp 2 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6519
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Vecinos Temp 3 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Vecinos Temp 3 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6520
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Vecinos Temp 4 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Vecinos Temp 4 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6521
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Vecinos Temp 5 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Vecinos Temp 5 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6522
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: Xena La Princesa Guerrera | SD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: Xena La Princesa Guerrera | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6642
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: â¢ââ-- 24/7 Ciencia Ficcion --âââ¢" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: â¢ââ-- 24/7 Ciencia Ficcion --âââ¢
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6641
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: â¢ââ-- 24/7 Comedia --âââ¢ | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: â¢ââ-- 24/7 Comedia --âââ¢ | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6483
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7: â¢ââ-- 24/7 Terror --âââ¢" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7: â¢ââ-- 24/7 Terror --âââ¢
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6645
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:: Los Magnificos Temp 1 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:: Los Magnificos Temp 1 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6478
+#EXTINF:-1 tvg-id="" tvg-name="LATINO 24/7:: Los Magnificos Temp 2 | HD" tvg-logo="" group-title="24/7 LATINO",LATINO 24/7:: Los Magnificos Temp 2 | HD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6479
+#EXTINF:-1 tvg-id="" tvg-name="LATINO: CHAPULIN COLORADO 24/7 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO: CHAPULIN COLORADO 24/7 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6452
+#EXTINF:-1 tvg-id="" tvg-name="LATINO: CHAVO DEL 8  24/7 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO: CHAVO DEL 8  24/7 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6453
+#EXTINF:-1 tvg-id="" tvg-name="LATINO: LOS SIMPSON 24/7 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO: LOS SIMPSON 24/7 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6456
+#EXTINF:-1 tvg-id="" tvg-name="LATINO: PINKY Y CEREBRO 24/7 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO: PINKY Y CEREBRO 24/7 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6454
+#EXTINF:-1 tvg-id="" tvg-name="LATINO: POKEMON 24/7 | SD" tvg-logo="" group-title="24/7 LATINO",LATINO: POKEMON 24/7 | SD
+http://watch.alienstreams.tv:8080/3934136260/5483122121/6455
+
